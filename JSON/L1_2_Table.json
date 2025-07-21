@@ -1,0 +1,286 @@
+[
+  {
+    "header": [
+      "",
+      "110年均",
+      "111年均",
+      "112年均",
+      "113年均",
+      "1月",
+      "2月",
+      "3月",
+      "4月",
+      "5月",
+      "6月",
+      "7月",
+      "8月",
+      "9月",
+      "10月",
+      "11月",
+      "12月"
+    ],
+    "data": [
+      [
+        {
+          "text": "歷年平均產量(t)",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": 5217,
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "4341",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3509",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3024",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        }
+      ],
+      [
+        {
+          "text": "113年產量(t)",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3508",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3346",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3666",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3006",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3109",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "2548",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "2901",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3058",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "2146",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "2933",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        }
+      ],
+      [
+        {
+          "text": "目標(t)",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3720",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3720",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3720",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3720",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3720",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3720",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3720",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3720",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3720",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "3720",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "text": "",
+          "color": "",
+          "icon": ""
+        }
+      ]
+    ]
+  }
+]
